@@ -1,0 +1,812 @@
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 515772
+Card type: Mastercard Debit
+Country : Hungary
+Currency_code: HUF
+Bank:
+    Name: MAGYAR CETELEM BANK RT.
+    Website: http://www.cetelem.hu/
+    Phone: (061) 458-6070
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 534319
+Card type: Mastercard Debit
+Country : Antigua and barbuda
+Currency_code: 
+Bank:
+    Name: NORTH INTERNATIONAL BANK, LTD.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 533893
+Card type: Mastercard Debit
+Country : Canada
+Currency_code: CAD
+Bank:
+    Name: PRESIDENT'S CHOICE BANK
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 518374
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: CAPITAL ONE BANK (USA), N.A.
+    Website: http://www.capitalone.com
+    Phone: 800-955-7070
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 518297
+Card type: Mastercard Credit
+Country : Costa rica
+Currency_code: CRC
+Bank:
+    Name: BANCO NACIONAL DE COSTA RICA
+    Website: http://www.bnonline.fi.cr/
+    Phone: (506)2211-2000
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 557737
+Card type: Mastercard Debit
+Country : Russian federation
+Currency_code: RUB
+Bank:
+    Name: COMMERCIAL BANK RENAISSANCE CREDIT (LIMITED LIABILITY COMPANY)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 567793
+Card type: Maestro Debit
+Country : Brazil
+Currency_code: BRL
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 554372
+Card type: Mastercard Debit
+Country : Russian federation
+Currency_code: RUB
+Bank:
+    Name: B&N BANK PUBLIC JOINT STOCK COMPANY
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 554351
+Card type: Mastercard Credit
+Country : India
+Currency_code: INR
+Bank:
+    Name: BANK OF INDIA
+    Website: http://www.bankofindia.com/
+    Phone: 1800220229,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 518605
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 535426
+Card type: Mastercard Debit
+Country : Italy
+Currency_code: 
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 523919
+Card type: Mastercard Credit
+Country : Equatorial guinea
+Currency_code: 
+Bank:
+    Name: CSCBANK SAL
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 595246
+Card type: Maestro Debit
+Country : United kingdom
+Currency_code: GBP
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 594286
+Card type: Maestro Debit
+Country : China
+Currency_code: CNY
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 548871
+Card type: Mastercard Credit
+Country : United kingdom
+Currency_code: GBP
+Bank:
+    Name: WORLDPAY (UK), LTD.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 555135
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: WEX BANK
+    Website: http://www.wexinc.com/
+    Phone: 207-773-8171
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 542531
+Card type: Mastercard Credit
+Country : India
+Currency_code: INR
+Bank:
+    Name: CITIBANK
+    Website: http://www.online.citibank.co.in/
+    Phone: 26422484,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 556886
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: BANK OF AMERICA, N.A.
+    Website: http://www.bankofamerica.com
+    Phone: 704-386-5972 OR 704-386-5681
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 528047
+Card type: Mastercard Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: FISERV SOLUTIONS LLC
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 515372
+Card type: Mastercard Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: JACK HENRY & ASSOCIATES
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 517395
+Card type: Mastercard Credit
+Country : United arab emirates
+Currency_code: AED
+Bank:
+    Name: MAWARID FINANCE PJSC
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 529337
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: SPOKANE TEACHERS C.U.
+    Website: http://www.stcu.org/
+    Phone: (509) 326-1954
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 594368
+Card type: Maestro Debit
+Country : Australia
+Currency_code: AUD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 510286
+Card type: Mastercard Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: STAR PROCESSING, INC.
+    Website: http://www.starprocessing.com
+    Phone: +1 (416) 535-2424
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 528601
+Card type: Mastercard Credit
+Country : Bermuda
+Currency_code: BMD
+Bank:
+    Name: BANK OF N.T. BUTTERFIELD & SON, LTD.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 529592
+Card type: Mastercard Credit
+Country : Angola
+Currency_code: AOA
+Bank:
+    Name: BANCO VALOR S.A
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 577441
+Card type: Cirrus Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 521464
+Card type: Mastercard Credit
+Country : Japan
+Currency_code: JPY
+Bank:
+    Name: NIPPON SHINPAN CO., LTD.
+    Website: http://www.cr.mufg.jp/
+    Phone: 81-3-3811-3111
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 561059
+Card type: Maestro Debit
+Country : Australia
+Currency_code: AUD
+Bank:
+    Name: AUSTRALIAN BANK CARD
+    Website: http://www.bankcard.com.au/
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 595670
+Card type: Maestro Debit
+Country : Costa rica
+Currency_code: CRC
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 585540
+Card type: Maestro Debit
+Country : Canada
+Currency_code: CAD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 582706
+Card type: Maestro Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 543062
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: CAYUGA SAVINGS BANK
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 572232
+Card type: Cirrus Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 543519
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 587888
+Card type: Cirrus Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: MASTERCARD - MDS FOR EUROPE DEBIT ACQUIRER & NON-EUROPEAN DEBIT ISSUER
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 590927
+Card type: Maestro Debit
+Country : Hong kong
+Currency_code: HKD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 517938
+Card type: Mastercard Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: WESTAMERICA BANK
+    Website: http://www.westamerica.com
+    Phone: 415-898-2003
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 470847
+Card type: Visa Credit
+Country : Japan
+Currency_code: JPY
+Bank:
+    Name: FFG CARD CO., LTD.
+    Website: http://www.fukuoka-fg.com
+    Phone: 092-844-6001
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 443274
+Card type: Visa Debit
+Country : Russian federation
+Currency_code: RUB
+Bank:
+    Name: CREDIT BANK OF MOSCOW (MKB BANK)
+    Website: http://mkb.ru/
+    Phone: +7 495 777-4-888
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 455586
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: BOKF, N.A.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 416961
+Card type: Visa Debit
+Country : Kyrgyzstan
+Currency_code: KGS
+Bank:
+    Name: OJSC UNICREDIT BANK
+    Website: http://www.unicreditbank.kg/
+    Phone: (33) 277-6210
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 459264
+Card type: Visa Debit
+Country : Namibia
+Currency_code: NAD
+Bank:
+    Name: NEDBANK NAMIBIA, LTD.
+    Website: 
+    Phone: (+264) 61 295-9111
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 484531
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: BANK OF THE CASCADES
+    Website: http://www.botc.com/
+    Phone: (541) 617-3660
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 440293
+Card type: Visa Credit
+Country : Turkey
+Currency_code: TRY
+Bank:
+    Name: TURK EKONOMI BANKASI, A.S.
+    Website: http://www.teb.com.tr
+    Phone: 444 0 666 TEB
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 465591
+Card type: Visa Debit
+Country : Colombia
+Currency_code: COP
+Bank:
+    Name: LLOYDS BANK PLC BANK, S.A.
+    Website: 
+    Phone: (571) 621-7698
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 421402
+Card type: Visa Debit
+Country : Canada
+Currency_code: CAD
+Bank:
+    Name: CITIZENS BANK OF CANADA
+    Website: https://www.citizensbank.ca/default.aspx
+    Phone: 1-888-778-7807
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 414196
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: WELLS FARGO BANK N.A.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 455176
+Card type: Visa Credit
+Country : Uruguay
+Currency_code: UYU
+Bank:
+    Name: BANCO ITAU URUGUAY, S.A.
+    Website: http://www.bancoitau.com.uy/
+    Phone: 598-2-9160127
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 495105
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 425423
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: RED CROWN F.C.U.
+    Website: http://www.redcrown.org
+    Phone: (918) 477-3200
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 470879
+Card type: Visa Credit
+Country : Japan
+Currency_code: JPY
+Bank:
+    Name: SUMITOMO MITSUI CARD CO., LTD.
+    Website: http://www.smfg.co.jp
+    Phone: 81-3-3282-8111
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 443168
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: HALE COUNTY STATE BANK
+    Website: http://www.hcsb.com/
+    Phone: (806) 995-4151
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 462980
+Card type: Visa Credit
+Country : Costa rica
+Currency_code: CRC
+Bank:
+    Name: BANCA PROMERICA, S.A.
+    Website: http://www.promerica.fi.cr
+    Phone: 2505-7781 / 2505-7782
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 467192
+Card type: Visa Credit
+Country : China
+Currency_code: CNY
+Bank:
+    Name: SHENZHEN DEVELOPMENT BANK, LTD.
+    Website: http://www.sdb.com.cn
+    Phone: :40066-95501
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 440347
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: PRIMEWAY F.C.U.
+    Website: http://www.primewayfcu.com/
+    Phone: (800) 554-5690
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 453373
+Card type: Visa Credit
+Country : France
+Currency_code: 
+Bank:
+    Name: CAISSE NATIONALE DE CREDIT AGRICOLE
+    Website: http://www.credit-agricole.fr/
+    Phone: 09 69 325 325 OR 09 69 325 325
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 484422
+Card type: Visa Debit
+Country : United kingdom
+Currency_code: GBP
+Bank:
+    Name: R RAPHAEL & SONS PLC
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________

@@ -1,0 +1,13 @@
+scappering-ips-------> ipscapper.com  -------->
+						extract the working ip only by sending requst to specific website to checker if its workng or not store all ips into list
+		       ip4-finder.com -------->
+
+
+		       sort accoring to location inside list with obj and class like if ip is 192.168.12.143 then key is India and value is 192.168.12.143
+
+	        	send sorted data inside blacklist-ip-checker site to know which ip is good according to country
+
+
+        
+
+			

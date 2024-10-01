@@ -1,0 +1,700 @@
+229 , 593
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 319990
+Card type: Private label Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: ING BANK SLASKI, S.A.
+    Website: http://en.ingbank.pl/
+    Phone: +48 32 357 70 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 337941
+Card type: American express Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK MILLENNIUM SPOLKA AKCYJNA
+    Website: http://www.bankmillennium.pl/
+    Phone: 801 331 331 OR 48 22 598 40 40
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 377940
+Card type: American express Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK MILLENNIUM SA
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 377941
+Card type: American express Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK MILLENNIUM SA
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 377946
+Card type: American express Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: AESEL - POLAND
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 377948
+Card type: American express Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: AESEL - POLAND
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 400227
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 400228
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 400256
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 400290
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK ZACHODNI WBK, S.A.
+    Website: http://english.bzwbk.pl/
+    Phone: 0048 71 370 10 00 OR 896-000-56-73
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 401325
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK ZACHODNI WBK, S.A.
+    Website: http://english.bzwbk.pl/
+    Phone: 0048 71 370 10 00 OR 896-000-56-73
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 401345
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: EURO BANK, S.A.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402166
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK HANDLOWY W WARSZAWIE, S.A.
+    Website: http://www.citibank.pl/
+    Phone: +48 22 657 72 00, 690 40 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402330
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402331
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402358
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: KREDYT BANK, S.A.
+    Website: http://www.kredytbank.pl/
+    Phone: (22) 634 54 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402375
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: RAIFFEISEN BANK POLSKA, S.A.
+    Website: http://www.raiffeisen.pl/
+    Phone: 22 585 39 99
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402725
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK GOSPODARSTWA KRAJOWEGO
+    Website: http://www.bgk.com.pl
+    Phone: 0 801 667 655 OR 48 22 596 5999
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 402859
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 403372
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 403656
+Card type: Visa Debit
+Country : Uganda
+Currency_code: UGX
+Bank:
+    Name: ORIENT BANK, LTD.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 403824
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI SA)
+    Website: http://www.pkobp.pl/
+    Phone: 801302302,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 403845
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404193
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404248
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404249
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: GOSPODARCZY BANK WIELKOPOLSKI SA W POZNANIU
+    Website: http://www.gbw.com.pl
+    Phone: (061) 856 24 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404733
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: GETIN BANK, S.A.
+    Website: http://www.getinbank.pl/
+    Phone: +48 32 604 3001
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404734
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: GETIN BANK, S.A.
+    Website: http://www.getinbank.pl/
+    Phone: +48 32 604 3001
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404742
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BNP PARIBAS BANK POLSKA, S.A.
+    Website: http://www.bnpparibas.pl/
+    Phone: 22 566 90 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS   DONE
+
+BIN NUMBER: 404747
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK HANDLOWY W WARSZAWIE, S.A.
+    Website: http://www.citibank.pl/
+    Phone: +48 22 657 72 00, 690 40 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404780
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404790
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: GETIN BANK, S.A.
+    Website: http://www.getinbank.pl/
+    Phone: +48 32 604 3001
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS   DONE
+
+BIN NUMBER: 404791
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: GETIN BANK, S.A.
+    Website: http://www.getinbank.pl/
+    Phone: +48 32 604 3001
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 404988
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKIEJ SPOLDZIELCZOSCI, S.A.
+    Website: http://www.bankbps.pl/
+    Phone: 22 539 51 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405166
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405167
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: 
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS       DONE
+
+BIN NUMBER: 405621
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405670
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405671
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS       DONE 
+
+BIN NUMBER: 405672
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: MBANK, S.A.
+    Website: https://www.mbank.pl
+    Phone: +48 22 6 273 2732
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405782
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+    Website: http://www.pkobp.pl/
+    Phone: 801302302,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 405783
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: POWSZECHNA KASA OSZCZEDNOSCI BANK POLSKI SA (PKO BANK POLSKI
+    Website: http://www.pkobp.pl/
+    Phone: 801302302,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS       DONE
+
+BIN NUMBER: 406307
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: EFG EUROBANK ERGASIAS, S.A.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406322
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406323
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406325
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406326
+Card type: Visa Debit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406328
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406329
+Card type: Visa Debit
+Country : United arab emirates
+Currency_code: AED
+Bank:
+    Name: NOOR BANK PJSC
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 406330
+Card type: Visa Credit
+Country : Poland
+Currency_code: PLN
+Bank:
+    Name: BANK POLSKA KASA OPIEKI S.A. (BANK PEKAO SA)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________

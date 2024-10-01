@@ -1,0 +1,350 @@
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 466565
+Card type: Visa Debit
+Country : Australia
+Currency_code: AUD
+Bank:
+    Name: COMMONWEALTH BANK OF AUSTRALIA
+    Website: http://www.commbank.com.au/
+    Phone: 1800989696,00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 433857
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: TULSA F.C.U.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 462855
+Card type: Visa Credit
+Country : Thailand
+Currency_code: THB
+Bank:
+    Name: THANACHART BANK PUBLIC CO., LTD.
+    Website: http://www.thanachart.co.th
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 466315
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: ORCHARD BANK (HSBC GROUP)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 470759
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: OKLAHOMA CENTRAL C.U.
+    Website: https://www.oklahomacentral.org/
+    Phone: 800-444-6228
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 469666
+Card type: Visa Debit
+Country : Nigeria
+Currency_code: NGN
+Bank:
+    Name: ACCESS BANK PLC
+    Website: http://www.accessbankplc.com
+    Phone: 234-1-7332000
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 485442
+Card type: Visa Debit
+Country : South africa
+Currency_code: ZAR
+Bank:
+    Name: FIRSTRAND BANK, LTD.
+    Website: http://www.firstrand.co.za/live/index.php
+    Phone: 27 11 282 1808
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 451060
+Card type: Visa Credit
+Country : Canada
+Currency_code: CAD
+Bank:
+    Name: ROYAL BANK OF CANADA
+    Website: http://www.rbc.com
+    Phone: 44 1481 744126/744009
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 473197
+Card type: Visa Credit
+Country : Brazil
+Currency_code: BRL
+Bank:
+    Name: BANCO COMERCIAL URUGUAI, S.A.
+    Website: http://www.nbc.com.uy
+    Phone: 140 - 1800
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 466310
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: ORCHARD BANK (HSBC GROUP)
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 471951
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: SERVICES C.U.
+    Website: http://www.servicecu.org
+    Phone: (603) 692-5620
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 463009
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: JOURNEY F.C.U.
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 479009
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: PNC BANK, GLOBAL INVESTMENT SERVICING
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 420900
+Card type: Visa Credit
+Country : Italy
+Currency_code: 
+Bank:
+    Name: CARTASI S.P.A.
+    Website: http://www.cartasi.it
+    Phone: +39.02.34.980.020
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 431550
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: SILVERTON BANK, N.A.
+    Website: http://www.silvertonbank.com
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 480434
+Card type: Visa Credit
+Country : Korea, republic of
+Currency_code: KRW
+Bank:
+    Name: SHINHAN CARD
+    Website: 
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 472812
+Card type: Visa Credit
+Country : Uruguay
+Currency_code: UYU
+Bank:
+    Name: BANCO SANTANDER, S.A.
+    Website: http://www.santander.com.uy/
+    Phone: (2) 132 4888 OR 598-2-9031073
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 466219
+Card type: Visa Debit
+Country : Switzerland
+Currency_code: CHF
+Bank:
+    Name: BONUSCARD.CH AG
+    Website: http://www.bonuscard.ch
+    Phone: 
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 442725
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: BANTERRA BANK, N.A.
+    Website: https://www.banterra.com
+    Phone: 866-226-8377
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 481224
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: REGIONS BANK
+    Website: http://www.regions.com /
+    Phone: 1-800-734-4667
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 433814
+Card type: Visa Debit
+Country : Lebanon
+Currency_code: LBP
+Bank:
+    Name: CREDIT LIBANAIS S.A.L.
+    Website: http://www.creditlibanais.com.lb/
+    Phone: 00961-1-900 111
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 491868
+Card type: Visa Credit
+Country : Sweden
+Currency_code: SEK
+Bank:
+    Name: FORENINGSSPARBANKEN AB (PUBL).
+    Website: http://www.foreningssparbanken.se
+    Phone: +46 8 585 900 00
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 476888
+Card type: Visa Credit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: UNION BANK COMPANY
+    Website: http://www.theubank.com/
+    Phone: 1-800-796-5656
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 428029
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: WELLS FARGO BANK, N.A.
+    Website: http://www.wellsfargo.com/
+    Phone: 1-800-642-4720
+
+______________________________________________________________________________________________________________
+
+______________________________________________________________________________________________________________
+Message : SUCCESS
+
+BIN NUMBER: 418194
+Card type: Visa Debit
+Country : United states of america
+Currency_code: USD
+Bank:
+    Name: RENASANT BANK
+    Website: http://www.renasantbank.com
+    Phone: (662) 842-1321
+
+______________________________________________________________________________________________________________

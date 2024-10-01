@@ -1,0 +1,19 @@
+@/token:refresh
+
+
+payload>>  f"{refreshToken}"
+
+provide >>>>   accessToken = jsondata['accessToken']
+
+
+
+@graphql
+
+    "Authorization": f"Bearer eyJ0eXAiOiJKV1QiLCJhbGciOiJFUzI1NiIsImtpZCI6IjIwMTgwNDI2MTYtcHJvZHVjdGlvbiIsImlzcyI6Imh0dHBzOi8vYXBpLmJyYWludHJlZWdhdGV3YXkuY29tIn0.eyJleHAiOjE3Mjc3NzEzMTksImp0aSI6IjgyZTFlM2NmLTE2MGItNDczNC1iN2QzLTVkZjc0NTczMTg5OCIsInN1YiI6Ino3N2pyOHZiamIycTN5ZHAiLCJpc3MiOiJodHRwczovL2FwaS5icmFpbnRyZWVnYXRld2F5LmNvbSIsIm1lcmNoYW50Ijp7InB1YmxpY19pZCI6Ino3N2pyOHZiamIycTN5ZHAiLCJ2ZXJpZnlfY2FyZF9ieV9kZWZhdWx0Ijp0cnVlfSwicmlnaHRzIjpbIm1hbmFnZV92YXVsdCJdLCJzY29wZSI6WyJCcmFpbnRyZWU6VmF1bHQiXSwib3B0aW9ucyI6e319.aX00PKdFfpndfEgUthjJ-oT09F5rkakoTl3nkDcwfAbExbX1zt0BQvliH_x18OjzYlNleUD-jqqNLBShTzrtcg",
+
+        provide >>  unique_token = json_data['data']['tokenizeCreditCard']['token']
+
+
+@Payments/subscribe
+
+    "Authorization": f"Bearer {accessToken}",
